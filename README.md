@@ -1,6 +1,6 @@
 1、2017年7月网门图片（网址大全，高清大图10张）
 
-预览下载网址：https://git.io/vQPmB
+预览下载网址：https://git.io/vQ9yC
 
 mega网盘下载：https://mega.nz/#F!uRpVjYLK!27iyQjQvBaRXO-9GLvNbOw
 
@@ -38,13 +38,13 @@ mega网盘下载： https://mega.nz/#F!TYADFbjL!VoD0TMAu9H2Dgg5vlRdtDw
       <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/wz4.jpg"/></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/wz5jpg"/></td>
+      <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/wz5.jpg"/></td>
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/wz6.jpg"/></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/wz7jpg"/></td>
+      <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/wz7.jpg"/></td>
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/wz8.jpg"/></td>
